@@ -2,7 +2,7 @@
 
 ### What is Youtube Clone ?
 
-youtube clone is a web application built with react , material ui , axions , rapid api to simulate the real youtube app 
+youtube clone is a web application built with react , material ui , axios , rapid api to simulate the real youtube app 
 <br/>
 <br/>
 ## Demo
